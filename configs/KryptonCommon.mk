@@ -53,6 +53,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     SimpleDeviceConfig
 
+# GamingMode
+PRODUCT_PACKAGES += \
+    GamingMode
+
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += \
 	vendor/krypton/overlays/common
